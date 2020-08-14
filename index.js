@@ -41,8 +41,6 @@ class Airplane {
 */
 
 class Person {
-  name = "Teresa";
-  age = 22;
   constructor(name, age) {
     this.name = name;
     this.age = age;
